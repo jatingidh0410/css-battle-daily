@@ -1,4 +1,2 @@
-a{
- background-color: aliceblue;
- border-radius: 50%;
-}
+<div><p><p></div>
+<p><style>p{height:50px;width:50px;}body{background:#4C455B;display:flex;align-items:center;}div{background:#8AB8B6;height:200.5px;width:280px;margin:0 0 0 52px;display:flex;gap:80px;}p{background:#F3EAD2;height: 140;width: 60px;margin:30px 20px;}div+p{border:0;position:absolute;height:20px;margin: 10px 0px 230px 72px;background-color: #F3EAD2;box-shadow: 180px 0 0 0 #F3EAD2,0px 219px 0 0#F3EAD2,180px 219px 0 0#F3EAD2;,}
