@@ -1,0 +1,18 @@
+<p>
+<style>
+  &{
+    background:#B6EBE7;
+    *{
+      background:radial-gradient(1q,#7060C0 30px,#0000 0)0 -50px,linear-gradient(#7060C0, #7060C0) 0 90px / 350px 250px no-repeat;
+      margin:10 30;
+      p{
+        position:absolute;
+        height:10;width:280;
+        background:#B6EBE7;
+        margin: 120 30;
+        box-shadow: 0 74q#B6EBE7;
+      
+      }
+    }
+  }
+ /* remove the comment */
